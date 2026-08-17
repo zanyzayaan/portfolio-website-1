@@ -1,6 +1,6 @@
-# Philip Traylen — Creative Technologist Portfolio
+#  Creative Technologist Portfolio
 
-A Next.js + React + TypeScript sample portfolio inspired by the supplied references, redesigned around teal `#008080` with deep maroon `#550000` as the primary ink.
+A Next.js + React + TypeScript sample portfolio.
 
 ## Run locally
 
